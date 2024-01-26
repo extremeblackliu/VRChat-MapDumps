@@ -1,0 +1,369 @@
+Log Cleared
+[OrientalSet/Sitting Idle/mesh_ti_male_01_joined.001/Dialogue Cube 1 (1)]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __13_ref_SystemBoolean[System.Boolean]
+| __12_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| __11_ref_SystemBoolean[System.Boolean]
+| __10_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[Stairs/Trigger Cube]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __23_ref_SystemBoolean[System.Boolean]
+| __22_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]__ag_0_0
+| [1]_onPlayerTriggerEnter
+| [2]__intern_event_0_debug_execute
+ __ 
+[OrientalSet/materialowanie_SimpleBakeExport]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __13_ref_SystemBoolean[System.Boolean]
+| __12_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| __11_ref_SystemBoolean[System.Boolean]
+| __10_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[OrientalSet/Sitting Idle/mesh_ti_male_01_joined.001/Dialogue Cube 1 (4)]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __13_ref_SystemBoolean[System.Boolean]
+| __12_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| __11_ref_SystemBoolean[System.Boolean]
+| __10_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[Cube (2)]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __12_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]__ag_0_0
+| [1]_interact
+| [2]__intern_event_0_debug_execute
+ __ 
+[OrientalSet/Sitting Idle/mesh_ti_male_01_joined.001/Dialogue Cube 1 (2)]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __13_ref_SystemBoolean[System.Boolean]
+| __12_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| __11_ref_SystemBoolean[System.Boolean]
+| __10_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[Monolith/Text (TMP) (4)/Cube]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[OrientalSet/Sitting Idle/mesh_ti_male_01_joined.001/Dialogue Cube 1 (5)]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __11_ref_SystemBoolean[System.Boolean]
+| __10_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[Monolith (1)/Text (TMP) (4)/Cube]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[DoorWOutline/Sans titre.000]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[Cube (1)]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __12_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]__ag_0_0
+| [1]_interact
+| [2]__intern_event_0_debug_execute
+ __ 
+[DoorAnimated/Door/Locked Door cube]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[Cube (3)]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __12_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]__ag_0_0
+| [1]_interact
+| [2]__intern_event_0_debug_execute
+ __ 
+[OrientalSet/Sitting Idle/mesh_ti_male_01_joined.001/Dialogue Cube 1 (3)]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __13_ref_SystemBoolean[System.Boolean]
+| __12_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| __11_ref_SystemBoolean[System.Boolean]
+| __10_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[OrientalSet/Sitting Idle/mesh_ti_male_01_joined.001/Dialogue Cube 1]
+| Variables:
+| __CyanTrigger_ProgramName_SystemString[System.String]
+| __13_ref_SystemBoolean[System.Boolean]
+| __12_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| __11_ref_SystemBoolean[System.Boolean]
+| __10_ref_UnityEngineGameObject[UnityEngine.GameObject]
+| - - - - -
+| Events:
+| [0]_interact
+| [1]__intern_event_0_debug_execute
+ __ 
+[Karl's Footstep System]
+| Variables:
+| _PlayerLocal[VRC.SDKBase.VRCPlayerApi]
+| _TimeToPlay[System.Boolean]
+| _TempVolume[System.Single]
+| _TempPitch[System.Single]
+| _PlayerSpeed[System.Single]
+| _Timer[System.Single]
+| RayHit[UnityEngine.RaycastHit]
+| Surface5LayerIndex[System.Single]
+| Surface4LayerIndex[System.Single]
+| Surface3LayerIndex[System.Single]
+| Surface2LayerIndex[System.Single]
+| Surface1LayerIndex[System.Single]
+| IgnoreLayer[UnityEngine.LayerMask]
+| _VolumeAverage[System.Single[]]
+| _PitchAverage[System.Single[]]
+| _PitchTransitionSpeed[System.Single]
+| _TimerInitialValue[System.Single]
+| _Surface5Array[UnityEngine.AudioClip[]]
+| _Surface4Array[UnityEngine.AudioClip[]]
+| _Surface3Array[UnityEngine.AudioClip[]]
+| _Surface2Array[UnityEngine.AudioClip[]]
+| _Surface1Array[UnityEngine.AudioClip[]]
+| _SoundSource[UnityEngine.AudioSource]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_update
+| [2]_PlayFootStepSound
+ __ 
+[VRCWorld]
+| Variables:
+| jumpImpulse[System.Single]
+| walkSpeed[System.Single]
+| runSpeed[System.Single]
+| strafeSpeed[System.Single]
+| - - - - -
+| Events:
+| [0]_start
+ __ 
+[Keypad/Keypad Structure/Buttons/3]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Keypad Structure/Buttons/4]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Keypad Structure/Buttons/8]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Keypad Structure/Buttons/ENTER]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Keypad Structure/Buttons/6]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Keypad Structure/Buttons/1]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Keypad Structure/Buttons/DELETE]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Keypad Structure/Buttons/9]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Keypad Structure/Buttons/2]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Keypad Structure/Buttons/5]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[Keypad/Teleport Point]
+| Variables:
+| - - - - -
+| Events:
+| [0]keypadGranted
+ __ 
+[Keypad]
+| Variables:
+| additionalKeySeparation[System.Boolean]
+| additionalDoorObjects[UnityEngine.GameObject[]]
+| additionalSolutions[System.String[]]
+| internalKeypadDisplay[UnityEngine.UI.Text]
+| programGranted[VRC.Udon.UdonBehaviour]
+| disableDebugging[System.Boolean]
+| hideDoorOnGranted[System.Boolean]
+| translationGranted[System.String]
+| translationDenied[System.String]
+| translationPasscode[System.String]
+| soundButton[UnityEngine.AudioSource]
+| soundGranted[UnityEngine.AudioSource]
+| soundDenied[UnityEngine.AudioSource]
+| denyList[System.String[]]
+| allowList[System.String[]]
+| solution[System.String]
+| - - - - -
+| Events:
+| [0]_start
+| [1]__0_ButtonInput
+ __ 
+[Keypad/Keypad Structure/Buttons/7]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
+[VRCWorld]
+| Variables:
+| alwaysEnforceHeight[System.Boolean]
+| maximumHeight[System.Single]
+| minimumHeight[System.Single]
+| disableAvatarScaling[System.Boolean]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_onAvatarEyeHeightChanged
+ __ 
+[Keypad/Keypad Structure/Buttons/0]
+| Variables:
+| disableDebugging[System.Boolean]
+| buttonValue[System.String]
+| keypad[VRC.Udon.UdonBehaviour]
+| - - - - -
+| Events:
+| [0]_start
+| [1]_interact
+| [2]_onMouseDown
+ __ 
